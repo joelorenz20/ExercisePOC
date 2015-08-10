@@ -1,0 +1,24 @@
+//
+//  exercise-Prefix.pch
+//  Exercise
+//
+//  Created by Joe Lorenz Florentino on 8/9/15.
+//  Copyright (c) 2015 Joe Lorenz Florentino. All rights reserved.
+//
+
+#ifndef Exercise_exercise_Prefix_pch
+#define Exercise_exercise_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import <CoreGraphics/CoreGraphics.h>
+#import "CommonBlocks.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import "RACEXTScope.h"
+
+#import "UIKit+AFNetworking.h"
+#import "UIImage+ImageEffects.h"
+#import "NSDictionary+Additions.h"
+#import "NSMutableArray+Additions.h"
+#import "UITableView+Additions.h"
+
+#endif
